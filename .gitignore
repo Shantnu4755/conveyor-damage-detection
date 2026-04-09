@@ -1,0 +1,36 @@
+# Data folders
+data/
+test_outputs/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Model config cache
+models/damage_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Training outputs
+runs/
+*.cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

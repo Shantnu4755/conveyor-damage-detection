@@ -1,0 +1,110 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            3100,
+            1648,
+            3120,
+            1692
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            2753,
+            1375,
+            2765,
+            1411
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            3105,
+            1249,
+            3120,
+            1282
+        ],
+        "damage_type": "scratch"
+    },
+    "4": {
+        "bbox_coordinates": [
+            2769,
+            1076,
+            2777,
+            1169
+        ],
+        "damage_type": "scratch"
+    },
+    "5": {
+        "bbox_coordinates": [
+            1228,
+            744,
+            1266,
+            2160
+        ],
+        "damage_type": "scratch"
+    },
+    "6": {
+        "bbox_coordinates": [
+            2783,
+            720,
+            2795,
+            844
+        ],
+        "damage_type": "scratch"
+    },
+    "7": {
+        "bbox_coordinates": [
+            3103,
+            473,
+            3120,
+            513
+        ],
+        "damage_type": "scratch"
+    },
+    "8": {
+        "bbox_coordinates": [
+            2809,
+            15,
+            2818,
+            49
+        ],
+        "damage_type": "scratch"
+    },
+    "9": {
+        "bbox_coordinates": [
+            3104,
+            0,
+            3120,
+            147
+        ],
+        "damage_type": "scratch"
+    },
+    "10": {
+        "bbox_coordinates": [
+            1228,
+            0,
+            1262,
+            489
+        ],
+        "damage_type": "scratch"
+    },
+    "11": {
+        "bbox_coordinates": [
+            684,
+            0,
+            3120,
+            45
+        ],
+        "damage_type": "edge_damage"
+    },
+    "12": {
+        "bbox_coordinates": [
+            684,
+            2115,
+            3120,
+            2160
+        ],
+        "damage_type": "edge_damage"
+    }
+}

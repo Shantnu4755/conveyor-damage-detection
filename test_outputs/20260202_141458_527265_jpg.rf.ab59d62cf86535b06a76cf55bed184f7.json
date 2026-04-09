@@ -1,0 +1,191 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            838,
+            1850,
+            942,
+            2121
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            838,
+            1738,
+            879,
+            1838
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            876,
+            1577,
+            897,
+            1638
+        ],
+        "damage_type": "scratch"
+    },
+    "4": {
+        "bbox_coordinates": [
+            903,
+            1562,
+            929,
+            1656
+        ],
+        "damage_type": "scratch"
+    },
+    "5": {
+        "bbox_coordinates": [
+            3007,
+            1516,
+            3054,
+            1740
+        ],
+        "damage_type": "scratch"
+    },
+    "6": {
+        "bbox_coordinates": [
+            842,
+            1463,
+            862,
+            1608
+        ],
+        "damage_type": "scratch"
+    },
+    "7": {
+        "bbox_coordinates": [
+            896,
+            1240,
+            933,
+            1568
+        ],
+        "damage_type": "scratch"
+    },
+    "8": {
+        "bbox_coordinates": [
+            2996,
+            1213,
+            3042,
+            1312
+        ],
+        "damage_type": "scratch"
+    },
+    "9": {
+        "bbox_coordinates": [
+            2932,
+            1043,
+            3017,
+            1333
+        ],
+        "damage_type": "scratch"
+    },
+    "10": {
+        "bbox_coordinates": [
+            892,
+            911,
+            921,
+            1163
+        ],
+        "damage_type": "scratch"
+    },
+    "11": {
+        "bbox_coordinates": [
+            847,
+            862,
+            871,
+            1013
+        ],
+        "damage_type": "scratch"
+    },
+    "12": {
+        "bbox_coordinates": [
+            3034,
+            813,
+            3112,
+            1057
+        ],
+        "damage_type": "scratch"
+    },
+    "13": {
+        "bbox_coordinates": [
+            861,
+            733,
+            896,
+            992
+        ],
+        "damage_type": "scratch"
+    },
+    "14": {
+        "bbox_coordinates": [
+            3051,
+            617,
+            3112,
+            803
+        ],
+        "damage_type": "scratch"
+    },
+    "15": {
+        "bbox_coordinates": [
+            838,
+            483,
+            870,
+            568
+        ],
+        "damage_type": "scratch"
+    },
+    "16": {
+        "bbox_coordinates": [
+            838,
+            287,
+            881,
+            456
+        ],
+        "damage_type": "scratch"
+    },
+    "17": {
+        "bbox_coordinates": [
+            3034,
+            165,
+            3061,
+            272
+        ],
+        "damage_type": "scratch"
+    },
+    "18": {
+        "bbox_coordinates": [
+            3023,
+            130,
+            3056,
+            146
+        ],
+        "damage_type": "scratch"
+    },
+    "19": {
+        "bbox_coordinates": [
+            838,
+            23,
+            868,
+            127
+        ],
+        "damage_type": "scratch"
+    },
+    "20": {
+        "bbox_coordinates": [
+            838,
+            0,
+            3112,
+            45
+        ],
+        "damage_type": "edge_damage"
+    },
+    "21": {
+        "bbox_coordinates": [
+            838,
+            2105,
+            3112,
+            2150
+        ],
+        "damage_type": "edge_damage"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            3074,
+            1805,
+            3091,
+            1843
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            655,
+            1279,
+            708,
+            2044
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            3063,
+            1015,
+            3091,
+            1072
+        ],
+        "damage_type": "scratch"
+    },
+    "4": {
+        "bbox_coordinates": [
+            655,
+            956,
+            664,
+            992
+        ],
+        "damage_type": "scratch"
+    },
+    "5": {
+        "bbox_coordinates": [
+            655,
+            616,
+            686,
+            1329
+        ],
+        "damage_type": "scratch"
+    },
+    "6": {
+        "bbox_coordinates": [
+            655,
+            367,
+            662,
+            511
+        ],
+        "damage_type": "scratch"
+    },
+    "7": {
+        "bbox_coordinates": [
+            655,
+            203,
+            673,
+            367
+        ],
+        "damage_type": "scratch"
+    },
+    "8": {
+        "bbox_coordinates": [
+            3051,
+            55,
+            3061,
+            102
+        ],
+        "damage_type": "scratch"
+    },
+    "9": {
+        "bbox_coordinates": [
+            3062,
+            0,
+            3091,
+            444
+        ],
+        "damage_type": "scratch"
+    },
+    "10": {
+        "bbox_coordinates": [
+            655,
+            0,
+            667,
+            100
+        ],
+        "damage_type": "scratch"
+    },
+    "11": {
+        "bbox_coordinates": [
+            655,
+            0,
+            3091,
+            45
+        ],
+        "damage_type": "edge_damage"
+    },
+    "12": {
+        "bbox_coordinates": [
+            655,
+            2115,
+            3091,
+            2160
+        ],
+        "damage_type": "edge_damage"
+    }
+}

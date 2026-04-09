@@ -1,0 +1,110 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            2753,
+            1807,
+            2764,
+            1840
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            700,
+            1608,
+            754,
+            2032
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            2796,
+            832,
+            2806,
+            865
+        ],
+        "damage_type": "scratch"
+    },
+    "4": {
+        "bbox_coordinates": [
+            700,
+            757,
+            746,
+            1628
+        ],
+        "damage_type": "scratch"
+    },
+    "5": {
+        "bbox_coordinates": [
+            700,
+            560,
+            721,
+            773
+        ],
+        "damage_type": "scratch"
+    },
+    "6": {
+        "bbox_coordinates": [
+            3085,
+            338,
+            3100,
+            612
+        ],
+        "damage_type": "scratch"
+    },
+    "7": {
+        "bbox_coordinates": [
+            3102,
+            322,
+            3134,
+            609
+        ],
+        "damage_type": "scratch"
+    },
+    "8": {
+        "bbox_coordinates": [
+            3118,
+            107,
+            3134,
+            334
+        ],
+        "damage_type": "scratch"
+    },
+    "9": {
+        "bbox_coordinates": [
+            3100,
+            0,
+            3115,
+            193
+        ],
+        "damage_type": "scratch"
+    },
+    "10": {
+        "bbox_coordinates": [
+            700,
+            0,
+            717,
+            556
+        ],
+        "damage_type": "scratch"
+    },
+    "11": {
+        "bbox_coordinates": [
+            700,
+            0,
+            3134,
+            45
+        ],
+        "damage_type": "edge_damage"
+    },
+    "12": {
+        "bbox_coordinates": [
+            700,
+            2111,
+            3134,
+            2156
+        ],
+        "damage_type": "edge_damage"
+    }
+}

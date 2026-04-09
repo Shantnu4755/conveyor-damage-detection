@@ -1,0 +1,218 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            637,
+            2064,
+            679,
+            2155
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            2922,
+            1904,
+            3009,
+            2155
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            719,
+            1655,
+            739,
+            1699
+        ],
+        "damage_type": "scratch"
+    },
+    "4": {
+        "bbox_coordinates": [
+            2954,
+            1382,
+            3051,
+            1706
+        ],
+        "damage_type": "scratch"
+    },
+    "5": {
+        "bbox_coordinates": [
+            637,
+            1380,
+            677,
+            2058
+        ],
+        "damage_type": "scratch"
+    },
+    "6": {
+        "bbox_coordinates": [
+            700,
+            1357,
+            730,
+            1427
+        ],
+        "damage_type": "scratch"
+    },
+    "7": {
+        "bbox_coordinates": [
+            2030,
+            1248,
+            2042,
+            1299
+        ],
+        "damage_type": "scratch"
+    },
+    "8": {
+        "bbox_coordinates": [
+            2976,
+            1154,
+            3051,
+            1372
+        ],
+        "damage_type": "scratch"
+    },
+    "9": {
+        "bbox_coordinates": [
+            704,
+            1119,
+            720,
+            1177
+        ],
+        "damage_type": "scratch"
+    },
+    "10": {
+        "bbox_coordinates": [
+            692,
+            855,
+            709,
+            952
+        ],
+        "damage_type": "scratch"
+    },
+    "11": {
+        "bbox_coordinates": [
+            637,
+            845,
+            643,
+            1089
+        ],
+        "damage_type": "scratch"
+    },
+    "12": {
+        "bbox_coordinates": [
+            2015,
+            819,
+            2033,
+            864
+        ],
+        "damage_type": "scratch"
+    },
+    "13": {
+        "bbox_coordinates": [
+            859,
+            731,
+            878,
+            809
+        ],
+        "damage_type": "scratch"
+    },
+    "14": {
+        "bbox_coordinates": [
+            3000,
+            715,
+            3051,
+            911
+        ],
+        "damage_type": "scratch"
+    },
+    "15": {
+        "bbox_coordinates": [
+            697,
+            687,
+            718,
+            806
+        ],
+        "damage_type": "scratch"
+    },
+    "16": {
+        "bbox_coordinates": [
+            688,
+            671,
+            707,
+            823
+        ],
+        "damage_type": "scratch"
+    },
+    "17": {
+        "bbox_coordinates": [
+            688,
+            507,
+            716,
+            668
+        ],
+        "damage_type": "scratch"
+    },
+    "18": {
+        "bbox_coordinates": [
+            813,
+            183,
+            857,
+            908
+        ],
+        "damage_type": "scratch"
+    },
+    "19": {
+        "bbox_coordinates": [
+            816,
+            151,
+            838,
+            209
+        ],
+        "damage_type": "scratch"
+    },
+    "20": {
+        "bbox_coordinates": [
+            690,
+            63,
+            721,
+            273
+        ],
+        "damage_type": "scratch"
+    },
+    "21": {
+        "bbox_coordinates": [
+            779,
+            17,
+            805,
+            77
+        ],
+        "damage_type": "scratch"
+    },
+    "22": {
+        "bbox_coordinates": [
+            855,
+            4,
+            878,
+            269
+        ],
+        "damage_type": "scratch"
+    },
+    "23": {
+        "bbox_coordinates": [
+            827,
+            0,
+            851,
+            184
+        ],
+        "damage_type": "scratch"
+    },
+    "24": {
+        "bbox_coordinates": [
+            637,
+            2110,
+            3051,
+            2155
+        ],
+        "damage_type": "edge_damage"
+    }
+}

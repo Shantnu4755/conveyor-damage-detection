@@ -1,0 +1,110 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            3071,
+            1525,
+            3104,
+            1610
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            2874,
+            1327,
+            2892,
+            1377
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            911,
+            959,
+            937,
+            1185
+        ],
+        "damage_type": "scratch"
+    },
+    "4": {
+        "bbox_coordinates": [
+            3067,
+            895,
+            3084,
+            934
+        ],
+        "damage_type": "scratch"
+    },
+    "5": {
+        "bbox_coordinates": [
+            680,
+            711,
+            728,
+            2160
+        ],
+        "damage_type": "scratch"
+    },
+    "6": {
+        "bbox_coordinates": [
+            1008,
+            687,
+            1017,
+            720
+        ],
+        "damage_type": "scratch"
+    },
+    "7": {
+        "bbox_coordinates": [
+            911,
+            591,
+            932,
+            656
+        ],
+        "damage_type": "scratch"
+    },
+    "8": {
+        "bbox_coordinates": [
+            913,
+            376,
+            921,
+            433
+        ],
+        "damage_type": "scratch"
+    },
+    "9": {
+        "bbox_coordinates": [
+            2610,
+            144,
+            2624,
+            176
+        ],
+        "damage_type": "scratch"
+    },
+    "10": {
+        "bbox_coordinates": [
+            977,
+            95,
+            989,
+            156
+        ],
+        "damage_type": "scratch"
+    },
+    "11": {
+        "bbox_coordinates": [
+            680,
+            0,
+            3104,
+            45
+        ],
+        "damage_type": "edge_damage"
+    },
+    "12": {
+        "bbox_coordinates": [
+            680,
+            2115,
+            3104,
+            2160
+        ],
+        "damage_type": "edge_damage"
+    }
+}

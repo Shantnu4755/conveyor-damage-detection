@@ -1,0 +1,8 @@
+{
+  "belt_model_path": "runs/detect/train/weights/best.pt",
+  "scratch_threshold": 50,
+  "edge_threshold": 1000,
+  "canny_low": 50,
+  "canny_high": 150,
+  "version": "1.0"
+}

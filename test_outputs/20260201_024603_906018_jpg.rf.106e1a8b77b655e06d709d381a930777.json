@@ -1,0 +1,218 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            2936,
+            1948,
+            3008,
+            2160
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            624,
+            1816,
+            681,
+            2160
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            624,
+            1516,
+            659,
+            1813
+        ],
+        "damage_type": "scratch"
+    },
+    "4": {
+        "bbox_coordinates": [
+            676,
+            1511,
+            686,
+            1665
+        ],
+        "damage_type": "scratch"
+    },
+    "5": {
+        "bbox_coordinates": [
+            2949,
+            1489,
+            3047,
+            1961
+        ],
+        "damage_type": "scratch"
+    },
+    "6": {
+        "bbox_coordinates": [
+            624,
+            1468,
+            647,
+            1520
+        ],
+        "damage_type": "scratch"
+    },
+    "7": {
+        "bbox_coordinates": [
+            624,
+            1310,
+            643,
+            1399
+        ],
+        "damage_type": "scratch"
+    },
+    "8": {
+        "bbox_coordinates": [
+            624,
+            1154,
+            651,
+            1471
+        ],
+        "damage_type": "scratch"
+    },
+    "9": {
+        "bbox_coordinates": [
+            660,
+            1009,
+            678,
+            1488
+        ],
+        "damage_type": "scratch"
+    },
+    "10": {
+        "bbox_coordinates": [
+            624,
+            887,
+            644,
+            1099
+        ],
+        "damage_type": "scratch"
+    },
+    "11": {
+        "bbox_coordinates": [
+            3014,
+            681,
+            3047,
+            834
+        ],
+        "damage_type": "scratch"
+    },
+    "12": {
+        "bbox_coordinates": [
+            2918,
+            563,
+            3047,
+            2160
+        ],
+        "damage_type": "scratch"
+    },
+    "13": {
+        "bbox_coordinates": [
+            3024,
+            480,
+            3043,
+            644
+        ],
+        "damage_type": "scratch"
+    },
+    "14": {
+        "bbox_coordinates": [
+            3032,
+            426,
+            3038,
+            466
+        ],
+        "damage_type": "scratch"
+    },
+    "15": {
+        "bbox_coordinates": [
+            3035,
+            320,
+            3047,
+            385
+        ],
+        "damage_type": "scratch"
+    },
+    "16": {
+        "bbox_coordinates": [
+            3037,
+            275,
+            3047,
+            310
+        ],
+        "damage_type": "scratch"
+    },
+    "17": {
+        "bbox_coordinates": [
+            932,
+            270,
+            947,
+            329
+        ],
+        "damage_type": "scratch"
+    },
+    "18": {
+        "bbox_coordinates": [
+            3004,
+            191,
+            3039,
+            593
+        ],
+        "damage_type": "scratch"
+    },
+    "19": {
+        "bbox_coordinates": [
+            3042,
+            127,
+            3047,
+            239
+        ],
+        "damage_type": "scratch"
+    },
+    "20": {
+        "bbox_coordinates": [
+            3034,
+            63,
+            3044,
+            196
+        ],
+        "damage_type": "scratch"
+    },
+    "21": {
+        "bbox_coordinates": [
+            3030,
+            3,
+            3036,
+            102
+        ],
+        "damage_type": "scratch"
+    },
+    "22": {
+        "bbox_coordinates": [
+            646,
+            3,
+            664,
+            992
+        ],
+        "damage_type": "scratch"
+    },
+    "23": {
+        "bbox_coordinates": [
+            624,
+            3,
+            3047,
+            48
+        ],
+        "damage_type": "edge_damage"
+    },
+    "24": {
+        "bbox_coordinates": [
+            624,
+            2115,
+            3047,
+            2160
+        ],
+        "damage_type": "edge_damage"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            3033,
+            1712,
+            3049,
+            1771
+        ],
+        "damage_type": "scratch"
+    },
+    "2": {
+        "bbox_coordinates": [
+            2976,
+            1710,
+            2992,
+            1747
+        ],
+        "damage_type": "scratch"
+    },
+    "3": {
+        "bbox_coordinates": [
+            616,
+            3,
+            3049,
+            48
+        ],
+        "damage_type": "edge_damage"
+    },
+    "4": {
+        "bbox_coordinates": [
+            616,
+            2115,
+            3049,
+            2160
+        ],
+        "damage_type": "edge_damage"
+    }
+}

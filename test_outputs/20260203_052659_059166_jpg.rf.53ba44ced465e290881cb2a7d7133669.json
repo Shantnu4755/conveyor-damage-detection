@@ -1,0 +1,20 @@
+{
+    "1": {
+        "bbox_coordinates": [
+            636,
+            1,
+            3073,
+            46
+        ],
+        "damage_type": "edge_damage"
+    },
+    "2": {
+        "bbox_coordinates": [
+            636,
+            2115,
+            3073,
+            2160
+        ],
+        "damage_type": "edge_damage"
+    }
+}
